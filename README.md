@@ -1,4 +1,4 @@
-![Video Background](video-background-view.png)
+![Video Background](video-background-view2.png)
 
 ## Video Background
 
